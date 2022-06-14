@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "PHP",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "name": "JAVA",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "name": "React",
+      "image": "https://picsum.photos/200/300",
+      "id": 3
+    },
+    {
+      "name": "Javascript",
+      "image": "https://picsum.photos/200/300",
+      "id": 4
+    },
+    {
+      "name": "Python",
+      "image": "https://picsum.photos/200/300",
+      "id": 5
+    }
+  ]
+}

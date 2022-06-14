@@ -1,0 +1,46 @@
+{
+  "enquiry": [
+    {
+      "id": 1,
+      "name": "Vikas",
+      "mobile": 9878564512,
+      "course": "PHP"
+    },
+    {
+      "name": "cd",
+      "mobile": "1212",
+      "course": "PHP",
+      "id": 2
+    },
+    {
+      "name": "Ajay",
+      "mobile": "9089671212",
+      "course": "JAVA",
+      "id": 3
+    },
+    {
+      "name": "Amnan",
+      "mobile": "90787561212",
+      "course": "JAVA",
+      "id": 4
+    },
+    {
+      "name": "karan",
+      "mobile": "907861212",
+      "course": "Javascript",
+      "id": 5
+    },
+    {
+      "name": "Kanak",
+      "mobile": "898988898",
+      "course": "PHP",
+      "id": 6
+    },
+    {
+      "name": "jaydev",
+      "mobile": "8767564534",
+      "course": "Python",
+      "id": 7
+    }
+  ]
+}
